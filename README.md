@@ -11,5 +11,5 @@ Esto es una práctica de Git del Master de EscuelaIT
 primera clase realizada!
 
 Recordatorio: 
-1. Commit
+1. Commit o Confirmar
 2. Push
